@@ -46,6 +46,6 @@ I like to eat all kinds of chciken, but my favorite is buffalo.
 
 # Inspired By
 
-
+-[Dinner then Dessert](https://dinnerthendessert.com/buffalo-chicken-tenders/)
 
 
