@@ -8,7 +8,6 @@ I like to eat all kinds of chciken, but my favorite is buffalo.
 - **Cook:** 30 Minutes
 - **Total:** 1 hour
 - **Servings:** 16
-- **Total Cost:** 
 
 # Ingredients
 
@@ -34,4 +33,19 @@ I like to eat all kinds of chciken, but my favorite is buffalo.
 
 # Directions
 
-1. Cut the chicken breasts into four tendes each and soak them in a bowl with the buttermilk and hot sauce for 30 minutes
+1. Cut the chicken breasts into four tendes each and soak them in a bowl with the buttermilk and hot sauce for 30 minutes.
+2. Add the eggs to one bowl and the flour and spices to a second bowl.
+3. Dip each piece of chicken from the buttermilk bowl to the flour mixture.
+4. Dip it into eggs then back into the flour mixture.
+5. Shake excess flour gently off and put the chicken onto a baking sheet.
+6. Repeat with all the pieces.
+7. Heat the oil (Three inches deep) in a dutch oven on medium high heat to 350 degrees.
+8. Fry the chicken in small batches for 5-7 minutes or until golden brown.
+9. To make the buffalo wing sauce add the ingredients to a small saucepan and bring to a boil while whisking
+10. Dip the tenders int the sauce and serve immediately.
+
+# Inspired By
+
+
+
+
